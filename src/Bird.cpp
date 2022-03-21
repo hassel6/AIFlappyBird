@@ -1,5 +1,5 @@
 
-#include "Bird.h"
+#include "headers/Bird.h"
 
 Bird::Bird( Sprite s, Matrix w1, Matrix w2 ) {
     birdSprite = s;

@@ -1,5 +1,5 @@
 
-#include "Pipe.h"
+#include "headers/Pipe.h"
 
 Pipe::Pipe( double x, double y, int id, Sprite sl, Sprite su ) {
     pipeX = x;

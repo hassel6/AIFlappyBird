@@ -1,5 +1,5 @@
 
-#include "GameEngine.h"
+#include "headers/GameEngine.h"
 
 int main() {
     srand( time( NULL ) );

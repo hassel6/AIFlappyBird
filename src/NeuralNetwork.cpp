@@ -1,5 +1,5 @@
 
-#include "NeuralNetwork.h"
+#include "headers/NeuralNetwork.h"
 
 NeuralNetwork::NeuralNetwork( double in1, double in2, double in3, Matrix w1, Matrix w2 ){
     input1 = in1;
